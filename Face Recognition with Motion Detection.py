@@ -27,7 +27,6 @@ def LoadFaces():
     
     known_face_names = [
         "Mayur",
-        "Harshal",
         "Elon Musk"
     ]
     
